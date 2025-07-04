@@ -5,7 +5,7 @@
 
 ### Sou apaixonado por tecnologia, fascinado por computadores e movido pela curiosidade de entender como tudo funciona. Gosto de transformar ideias em soluções reais. 👨‍💻
 
-
+![Lennon Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=LennonRsantos&show_icons=true&theme=dracula)
 
 
 ### 💻 Tecnologias que costumo utilizar
